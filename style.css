@@ -1,0 +1,22 @@
+body {
+    background-color: darkturquoise;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#score {
+    font-size: 25px;
+    color: red;
+    margin-right: 1500;
+}
+#timer {
+    font-size: 25px;
+    color: red;
+    margin-left: 1500;
+}
+#show_sketch{
+    margin-left: 1500px;
+}
+#sketch_draw{
+    color: darkblue;
+}
